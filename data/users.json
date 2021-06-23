@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "0bdWE",
+    "fullname": "maria",
+    "username": "mamaria",
+    "password": "howImissYOU",
+    "updatedAt": 1620926137178,
+    "createdAt": 1620926137178
+  },
+  {
+    "_id": "101",
+    "fullname": "Benji Who",
+    "username": "benji",
+    "password": "benji1",
+    "updatedAt": 1620907916372,
+    "createdAt": 1620907916372,
+    "isAdmin": true
+  },
+  {
+    "_id": "102",
+    "fullname": "Mike Who",
+    "username": "mike",
+    "password": "mike1",
+    "updatedAt": 1620907916372,
+    "createdAt": 1620907916372
+  },
+  {
+    "_id": "103",
+    "fullname": "Adam Who",
+    "username": "adam",
+    "password": "adam1",
+    "updatedAt": 1620907916372,
+    "createdAt": 1620907916372
+  }
+]
